@@ -27,6 +27,7 @@
 
 
 
+
 ## Serduszka:
 
 ### player_currentHp
@@ -43,5 +44,5 @@
    - Owczarek: `3`;
    - York = `5`;
 ### enemy_currentHp
--Opis: aktualna wartość serduszek przeciwnika
+- Opis: aktualna wartość serduszek przeciwnika
 
