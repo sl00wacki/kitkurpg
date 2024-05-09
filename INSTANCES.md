@@ -29,7 +29,7 @@
 
 ## Serduszka:
 
-###player_currentHp
+### player_currentHp
 - Opis: aktualny stan serduszek gracza.
   
 ### player_MaxHp
