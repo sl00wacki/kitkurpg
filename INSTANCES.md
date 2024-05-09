@@ -39,9 +39,9 @@
 ### enemy_MaxHp
 - Opis: maksymalna wartość serduszek przeciwnika
 - Wartość domyślna:
-   - Dobberman: 2;
-   - Owczarek: 3;
-   - York = 5;
+   - Dobberman: `2`;
+   - Owczarek: `3`;
+   - York = `5`;
 ### enemy_currentHp
 -Opis: aktualna wartość serduszek przeciwnika
 
