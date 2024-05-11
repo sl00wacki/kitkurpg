@@ -54,3 +54,8 @@
 ### enemy_currentHp
 - Opis: aktualna wartość serduszek przeciwnika
 
+#Menu
+
+### fa_center, fa_middle
+- Opis: Wbudowane zmienne definiujące położenie przycisków
+
