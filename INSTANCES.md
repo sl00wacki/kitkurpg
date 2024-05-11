@@ -1,4 +1,4 @@
-## Ruch:
+# Ruch:
 
 ### player_speed
 - Opis: Szybkość gracza.
@@ -24,11 +24,19 @@
 ### sprite_index
 - Opis: Ustawienie sprite'a na postać bez ruchu (`player_idle`).
 
+### collision_speed
+- Opis: Setup do kolizji - Przemieszczanie się dookoła kolizji
+
+## Build-in:
+
+### xprevious & yprevious 
+- Opis: Przechowują zmienne poprzednich współrzędnych x i y.
 
 
 
 
-## Serduszka:
+
+# Serduszka:
 
 ### player_currentHp
 - Opis: aktualny stan serduszek gracza.
