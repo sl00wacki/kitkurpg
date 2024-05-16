@@ -12,7 +12,6 @@ Nasz główny cel to stworzenie niezapomnianej przygody dla wszystkich miłośni
 - Adam iFrost
 - Adam Wheelpumpkin
 - Wiki Poledance
-- Ruslan Smoral
 
 ## Nasze funkcjonalności
 - 🌟 3 poziomy pełne zagadek i wyzwań
