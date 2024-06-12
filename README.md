@@ -3,7 +3,7 @@
 Witaj w Kitku RPG! To kolorowa gra RPG, gdzie wcielisz się w odważnego kociaka, który stawia czoła swoim wiecznym wrogom - psom! Przeżyj niesamowite przygody, eksploruj tajemnicze lokacje i uratuj świat kociego królestwa!
 
 ## Opis gry
-Kitku RPG to pełnokrwista gra RPG, gdzie Twoim głównym zadaniem jest pokonanie złowrogich psich przeciwników i ocalenie kociego królestwa! Wybierz swojego ulubionego kociaka spośród trzech uroczych postaci: Lusia, Iskierka i Tosia, z każdym posiadającym unikalne umiejętności i historię.
+Kitku RPG to pełnokrwista gra RPG, gdzie Twoim głównym zadaniem jest pokonanie złowrogich psich przeciwników i ocalenie kociego królestwa! Wybierz swojego ulubionego kociaka spośród trzech uroczych postaci: Lusia, Iskierka i Tosia.
 
 ## Nasze cele
 Naszym głównym celem jest stworzenie niezapomnianej przygody dla wszystkich miłośników kotów i RPG! Chcemy dostarczyć emocjonującą rozgrywkę, bogatą w różnorodne elementy i piękną grafikę.
