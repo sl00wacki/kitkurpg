@@ -1,38 +1,33 @@
-# 🐾 Kitku RPG 🐾
+# Kitku RPG 🐾
 
-Witaj w Kitku RPG! To barwna gra RPG, w której wcielisz się w odważnego kociaka, który stawia czoła swoim wiecznym wrogom - psom! Przeżyj niesamowite przygody, odkrywaj tajemnicze lokacje i uratuj świat kociego królestwa!
+Witaj w Kitku RPG! To kolorowa gra RPG, gdzie wcielisz się w odważnego kociaka, który stawia czoła swoim wiecznym wrogom - psom! Przeżyj niesamowite przygody, eksploruj tajemnicze lokacje i uratuj świat kociego królestwa!
 
 ## Opis gry
-Kitku RPG to pełna przygód gra RPG, w której Twoim głównym zadaniem będzie pokonanie złowrogich psich wrogów i ocalenie kociego królestwa przed zagładą! Wybierz swojego ulubionego kociaka spośród trzech uroczych postaci: Lusia, Iskierka i Tosia, każdy z unikalnymi umiejętnościami i historią.
+Kitku RPG to pełnokrwista gra RPG, gdzie Twoim głównym zadaniem jest pokonanie złowrogich psich przeciwników i ocalenie kociego królestwa! Wybierz swojego ulubionego kociaka spośród trzech uroczych postaci: Lusia, Iskierka i Tosia, z każdym posiadającym unikalne umiejętności i historię.
 
 ## Nasze cele
-Nasz główny cel to stworzenie niezapomnianej przygody dla wszystkich miłośników kotów i RPG! Chcemy dostarczyć emocjonującą rozgrywkę, bogatą w różnorodne elementy i piękne grafiki.
+Naszym głównym celem jest stworzenie niezapomnianej przygody dla wszystkich miłośników kotów i RPG! Chcemy dostarczyć emocjonującą rozgrywkę, bogatą w różnorodne elementy i piękną grafikę.
 
-## Uczestnicy projektu
-- Adam iFrost
-- Adam Wheelpumpkin
-- Wiki Poledance
 
 ## Nasze funkcjonalności
-- 🌟 3 poziomy pełne zagadek i wyzwań
-- 🐶 3 różne przeciwniki - psie bestie, które trzeba pokonać
+- 🎵 Super muzyka, która towarzyszy w trakcie gry
+- 🏆 Wygrana po zbieraniu odpowiedniej ilości punktów
 - 🎨 Customizacja postaci - wybierz swojego ulubionego kociaka!
-- 🎒 Plecak z funkcjonalnym podnoszeniem przedmiotów
-- 🏰 Menu Startu, Śmierci i Customizacji Postaci
-- 🎮 Przeróżne piękne sprite'y, które ożywią świat Kitku RPG!
+- 🏰 Menu Startu, Śmierci
+- 🎮 Różnorodne i piękne sprite'y, które ożywią świat Kitku RPG!
 
 ## Jak zacząć?
-1. Sklonuj repozytorium na swój komputer.
-2. Uruchom plik .exe
+1. Pobierz najnowszą wersję oznaczoną jako .EXE
+2. Rozpakuj archiwum, po czym uruchom plik .exe.
 3. Rozpocznij niesamowitą przygodę jako koci bohater!
 
 ## Zobacz naszą grę w akcji!
-![KitkuRPG](https://cdn.discordapp.com/attachments/1027312101083058189/1245860269167611924/bandicam2024-05-3013-12-07-261-ezgif.com-video-to-gif-converter.gif?ex=665a494b&is=6658f7cb&hm=d16f61d6691c9c478c192c992b72157099acaacd5891e5fe4559ef053fedf49f&)
+![KitkuRPG](https://cdn.discordapp.com/attachments/820754148227809340/1250545644192530552/ezgif.com-video-to-gif-converter.gif?ex=666b54e3&is=666a0363&hm=2721d0b3323007e4b1becd5d4fc98a63f142f8b4fbf9aaa0706ecb15294cb113&)
 
 ## Wsparcie i kontakt
-Jeśli masz pytania, sugestie lub chcesz się przyłączyć do projektu, skontaktuj się z nami:) Po prostu. Dobrze wiesz jak ;)
+Jeśli masz pytania, sugestie lub chcesz się przyłączyć do projektu, skontaktuj się z nami! Jesteśmy otwarci na wszelkie propozycje i pomysły.
 
 ## Licencja
 Ten projekt jest objęty licencją MIT - zobacz plik LICENSE.md, aby uzyskać więcej informacji.
 
-Rozkoszuj się grą i miej niezłomną ducha kociego w sercu! 🐱✨
+Rozkoszuj się grą i miej niezłomny duch kociego w sercu! 🐱✨
